@@ -1,0 +1,501 @@
+Lead_ID,Sales_Rep,Region,Product,Stage,Stage_Entry_Date,Deal_Amount,Outcome,Close_Date
+1,Thomas Dickson,North,Email Campaigns,Closed Lost,2025-07-25,0,Lost,2025-08-19
+2,Monique Thomas,North,Support Plus,Qualified,2025-04-22,0,Lost,
+3,Jonathan Blevins,West,CRM Pro,Contacted,2025-04-13,0,Lost,
+4,Thomas Dickson,South,CRM Lite,Contacted,2025-04-10,0,Lost,
+5,David Cole,South,Support Plus,Closed Won,2025-05-23,717,Won,2025-06-28
+6,Cindy Gray,East,CRM Pro,Qualified,2025-04-28,0,Lost,
+7,Michael Simpson,East,Email Campaigns,Qualified,2025-07-06,0,Lost,
+8,Tyler Hawkins,East,CRM Pro,Qualified,2025-04-08,0,Lost,
+9,Michael Simpson,North,Email Campaigns,Contacted,2025-06-19,0,Lost,
+10,Jonathan Blevins,East,CRM Pro,Proposal Sent,2025-06-09,0,Lost,
+11,Cindy Gray,North,Analytics Suite,Closed Lost,2025-07-21,0,Lost,2025-08-05
+12,Jonathan Blevins,East,Support Plus,Closed Won,2025-04-22,2901,Won,2025-05-14
+13,Thomas Dickson,North,CRM Lite,Closed Lost,2025-07-14,0,Lost,2025-09-11
+14,Thomas Dickson,South,CRM Pro,Proposal Sent,2025-04-08,0,Lost,
+15,Jennifer Gonzalez,West,Email Campaigns,Negotiation,2025-07-22,0,Lost,
+16,Ashley Brandt,East,CRM Lite,Qualified,2025-06-08,0,Lost,
+17,Jennifer Gonzalez,North,Support Plus,Closed Lost,2025-05-22,0,Lost,2025-07-11
+18,David Cole,South,CRM Lite,Qualified,2025-06-11,0,Lost,
+19,Michael Simpson,East,Support Plus,Negotiation,2025-04-14,0,Lost,
+20,Ashley Brandt,North,CRM Lite,Qualified,2025-06-18,0,Lost,
+21,Ashley Brandt,West,Email Campaigns,Contacted,2025-04-11,0,Lost,
+22,Tyler Hawkins,East,CRM Lite,Contacted,2025-06-16,0,Lost,
+23,Cindy Gray,West,Analytics Suite,Closed Lost,2025-05-07,0,Lost,2025-05-26
+24,Monique Thomas,South,Support Plus,Proposal Sent,2025-06-20,0,Lost,
+25,Jonathan Blevins,West,Support Plus,Closed Won,2025-06-24,2652,Won,2025-07-29
+26,Tyler Hawkins,South,Support Plus,Proposal Sent,2025-05-09,0,Lost,
+27,Thomas Dickson,North,CRM Pro,Negotiation,2025-04-30,0,Lost,
+28,Monique Thomas,West,Support Plus,Qualified,2025-06-17,0,Lost,
+29,Michael Simpson,West,Support Plus,Contacted,2025-05-16,0,Lost,
+30,David Cole,East,Support Plus,Negotiation,2025-05-09,0,Lost,
+31,Thomas Dickson,East,Email Campaigns,Contacted,2025-06-28,0,Lost,
+32,Jennifer Gonzalez,West,CRM Lite,Contacted,2025-05-30,0,Lost,
+33,John Smith,East,Support Plus,Negotiation,2025-07-13,0,Lost,
+34,David Cole,North,Email Campaigns,Qualified,2025-06-29,0,Lost,
+35,David Cole,South,CRM Lite,Closed Lost,2025-06-08,0,Lost,2025-07-11
+36,David Cole,North,Support Plus,Qualified,2025-07-23,0,Lost,
+37,Cindy Gray,North,CRM Pro,Proposal Sent,2025-05-28,0,Lost,
+38,Jennifer Gonzalez,South,CRM Pro,Proposal Sent,2025-06-10,0,Lost,
+39,Jonathan Blevins,North,CRM Pro,Qualified,2025-06-12,0,Lost,
+40,Cindy Gray,North,Support Plus,Closed Lost,2025-07-19,0,Lost,2025-09-16
+41,Monique Thomas,West,Support Plus,Qualified,2025-07-11,0,Lost,
+42,Jennifer Gonzalez,West,CRM Lite,Qualified,2025-06-25,0,Lost,
+43,Jennifer Gonzalez,West,Email Campaigns,Closed Won,2025-05-04,2147,Won,2025-06-11
+44,Thomas Dickson,South,CRM Lite,Closed Won,2025-05-22,4198,Won,2025-06-05
+45,John Smith,South,Support Plus,Proposal Sent,2025-05-19,0,Lost,
+46,John Smith,North,CRM Pro,Qualified,2025-07-08,0,Lost,
+47,Thomas Dickson,North,Email Campaigns,Qualified,2025-04-07,0,Lost,
+48,David Cole,South,Email Campaigns,Contacted,2025-06-27,0,Lost,
+49,Cindy Gray,South,Support Plus,Closed Lost,2025-07-09,0,Lost,2025-07-27
+50,Jonathan Blevins,West,CRM Lite,Closed Lost,2025-04-23,0,Lost,2025-06-22
+51,Michael Simpson,South,CRM Pro,Negotiation,2025-07-18,0,Lost,
+52,Michael Simpson,East,Analytics Suite,Contacted,2025-04-20,0,Lost,
+53,Cindy Gray,North,CRM Pro,Negotiation,2025-05-26,0,Lost,
+54,Michael Simpson,East,CRM Pro,Contacted,2025-04-23,0,Lost,
+55,Tyler Hawkins,South,Support Plus,Qualified,2025-07-15,0,Lost,
+56,Monique Thomas,West,CRM Lite,Negotiation,2025-04-26,0,Lost,
+57,Cindy Gray,South,CRM Pro,Proposal Sent,2025-06-27,0,Lost,
+58,David Cole,North,CRM Pro,Negotiation,2025-05-12,0,Lost,
+59,David Cole,North,CRM Pro,Closed Lost,2025-05-14,0,Lost,2025-07-11
+60,Monique Thomas,West,Analytics Suite,Qualified,2025-05-13,0,Lost,
+61,Tyler Hawkins,West,CRM Pro,Negotiation,2025-05-13,0,Lost,
+62,Michael Simpson,North,Analytics Suite,Qualified,2025-05-05,0,Lost,
+63,Cindy Gray,East,Analytics Suite,Proposal Sent,2025-04-26,0,Lost,
+64,David Cole,West,CRM Lite,Closed Lost,2025-05-27,0,Lost,2025-06-18
+65,Tyler Hawkins,North,Support Plus,Proposal Sent,2025-07-03,0,Lost,
+66,David Cole,North,Email Campaigns,Closed Lost,2025-07-09,0,Lost,2025-07-22
+67,Jonathan Blevins,West,Support Plus,Contacted,2025-06-22,0,Lost,
+68,John Smith,North,CRM Lite,Closed Won,2025-06-23,1789,Won,2025-07-07
+69,Tyler Hawkins,West,CRM Pro,Closed Won,2025-07-09,1056,Won,2025-08-24
+70,Jonathan Blevins,North,Support Plus,Qualified,2025-04-12,0,Lost,
+71,Michael Simpson,East,Email Campaigns,Contacted,2025-04-22,0,Lost,
+72,Ashley Brandt,South,Email Campaigns,Qualified,2025-07-07,0,Lost,
+73,Monique Thomas,East,Analytics Suite,Negotiation,2025-04-25,0,Lost,
+74,Thomas Dickson,North,Analytics Suite,Proposal Sent,2025-06-14,0,Lost,
+75,Thomas Dickson,South,Support Plus,Closed Won,2025-05-28,1319,Won,2025-06-23
+76,Ashley Brandt,North,CRM Lite,Qualified,2025-07-01,0,Lost,
+77,Jennifer Gonzalez,South,Analytics Suite,Proposal Sent,2025-04-26,0,Lost,
+78,Jonathan Blevins,North,Support Plus,Closed Won,2025-07-21,2978,Won,2025-08-19
+79,Thomas Dickson,South,Email Campaigns,Closed Lost,2025-06-13,0,Lost,2025-06-30
+80,David Cole,South,Email Campaigns,Contacted,2025-04-21,0,Lost,
+81,Jonathan Blevins,South,Email Campaigns,Proposal Sent,2025-07-20,0,Lost,
+82,Jennifer Gonzalez,West,Email Campaigns,Qualified,2025-06-21,0,Lost,
+83,Thomas Dickson,West,Email Campaigns,Contacted,2025-07-22,0,Lost,
+84,John Smith,East,CRM Lite,Contacted,2025-06-10,0,Lost,
+85,Jennifer Gonzalez,South,Analytics Suite,Closed Lost,2025-05-30,0,Lost,2025-07-14
+86,Michael Simpson,North,CRM Pro,Closed Lost,2025-07-15,0,Lost,2025-07-29
+87,Monique Thomas,North,Email Campaigns,Closed Lost,2025-06-26,0,Lost,2025-08-12
+88,Michael Simpson,South,CRM Pro,Closed Won,2025-04-20,1713,Won,2025-05-19
+89,John Smith,East,CRM Lite,Proposal Sent,2025-04-07,0,Lost,
+90,Tyler Hawkins,North,Email Campaigns,Closed Lost,2025-05-23,0,Lost,2025-07-21
+91,Jonathan Blevins,South,CRM Lite,Closed Won,2025-04-16,3829,Won,2025-05-06
+92,Michael Simpson,North,CRM Lite,Qualified,2025-05-22,0,Lost,
+93,Ashley Brandt,West,CRM Lite,Closed Lost,2025-07-17,0,Lost,2025-08-13
+94,Thomas Dickson,West,CRM Pro,Qualified,2025-06-16,0,Lost,
+95,Tyler Hawkins,South,Analytics Suite,Negotiation,2025-07-17,0,Lost,
+96,Jennifer Gonzalez,South,CRM Lite,Proposal Sent,2025-06-17,0,Lost,
+97,Tyler Hawkins,West,Email Campaigns,Contacted,2025-06-11,0,Lost,
+98,Thomas Dickson,East,Email Campaigns,Proposal Sent,2025-05-04,0,Lost,
+99,David Cole,West,Support Plus,Closed Lost,2025-04-21,0,Lost,2025-05-22
+100,Thomas Dickson,East,CRM Lite,Contacted,2025-06-17,0,Lost,
+101,John Smith,North,Support Plus,Closed Won,2025-07-04,2674,Won,2025-08-10
+102,Ashley Brandt,West,Support Plus,Proposal Sent,2025-07-19,0,Lost,
+103,Michael Simpson,South,Email Campaigns,Closed Won,2025-05-31,1447,Won,2025-06-12
+104,Michael Simpson,North,Support Plus,Closed Lost,2025-05-30,0,Lost,2025-07-13
+105,Tyler Hawkins,East,Analytics Suite,Closed Lost,2025-07-14,0,Lost,2025-07-28
+106,Ashley Brandt,East,CRM Pro,Closed Lost,2025-04-13,0,Lost,2025-06-08
+107,David Cole,East,Analytics Suite,Proposal Sent,2025-06-19,0,Lost,
+108,Michael Simpson,East,Support Plus,Proposal Sent,2025-06-27,0,Lost,
+109,Tyler Hawkins,West,Analytics Suite,Qualified,2025-07-20,0,Lost,
+110,Monique Thomas,East,Analytics Suite,Closed Lost,2025-06-14,0,Lost,2025-07-29
+111,Jennifer Gonzalez,East,CRM Lite,Contacted,2025-04-14,0,Lost,
+112,Jonathan Blevins,East,Analytics Suite,Negotiation,2025-06-17,0,Lost,
+113,Cindy Gray,South,Support Plus,Negotiation,2025-07-07,0,Lost,
+114,Monique Thomas,North,Email Campaigns,Negotiation,2025-05-26,0,Lost,
+115,Thomas Dickson,South,Email Campaigns,Closed Won,2025-06-08,3245,Won,2025-07-02
+116,Monique Thomas,North,CRM Pro,Qualified,2025-06-05,0,Lost,
+117,Cindy Gray,North,Analytics Suite,Qualified,2025-05-30,0,Lost,
+118,Jonathan Blevins,South,Analytics Suite,Negotiation,2025-04-08,0,Lost,
+119,Michael Simpson,South,CRM Lite,Negotiation,2025-06-18,0,Lost,
+120,John Smith,North,Analytics Suite,Closed Lost,2025-05-09,0,Lost,2025-06-02
+121,David Cole,West,CRM Pro,Qualified,2025-04-08,0,Lost,
+122,Thomas Dickson,West,CRM Lite,Closed Won,2025-07-19,2541,Won,2025-08-27
+123,David Cole,East,Analytics Suite,Closed Lost,2025-05-21,0,Lost,2025-07-09
+124,David Cole,West,Support Plus,Closed Lost,2025-04-16,0,Lost,2025-05-24
+125,Cindy Gray,West,Email Campaigns,Qualified,2025-06-04,0,Lost,
+126,Jennifer Gonzalez,West,CRM Lite,Qualified,2025-06-04,0,Lost,
+127,Cindy Gray,North,Email Campaigns,Proposal Sent,2025-05-27,0,Lost,
+128,Jennifer Gonzalez,East,Email Campaigns,Qualified,2025-06-03,0,Lost,
+129,Monique Thomas,South,CRM Lite,Closed Won,2025-06-09,1160,Won,2025-07-13
+130,Monique Thomas,South,CRM Pro,Closed Lost,2025-07-09,0,Lost,2025-08-14
+131,Ashley Brandt,West,Analytics Suite,Negotiation,2025-07-19,0,Lost,
+132,Tyler Hawkins,West,Analytics Suite,Contacted,2025-05-22,0,Lost,
+133,Jonathan Blevins,West,Analytics Suite,Closed Won,2025-06-17,660,Won,2025-06-27
+134,Jennifer Gonzalez,West,Analytics Suite,Proposal Sent,2025-04-09,0,Lost,
+135,Jonathan Blevins,South,Analytics Suite,Closed Won,2025-06-23,4973,Won,2025-07-17
+136,Michael Simpson,West,CRM Pro,Proposal Sent,2025-07-25,0,Lost,
+137,Ashley Brandt,West,CRM Lite,Negotiation,2025-06-23,0,Lost,
+138,Monique Thomas,North,Analytics Suite,Negotiation,2025-06-23,0,Lost,
+139,Thomas Dickson,West,CRM Lite,Closed Won,2025-04-27,722,Won,2025-06-05
+140,John Smith,East,Analytics Suite,Qualified,2025-05-11,0,Lost,
+141,Tyler Hawkins,West,Email Campaigns,Proposal Sent,2025-06-20,0,Lost,
+142,Michael Simpson,East,Analytics Suite,Proposal Sent,2025-06-12,0,Lost,
+143,Thomas Dickson,West,CRM Pro,Proposal Sent,2025-05-22,0,Lost,
+144,David Cole,North,Email Campaigns,Closed Lost,2025-06-24,0,Lost,2025-07-18
+145,Thomas Dickson,North,CRM Pro,Closed Lost,2025-04-09,0,Lost,2025-05-04
+146,John Smith,South,CRM Lite,Qualified,2025-04-11,0,Lost,
+147,Cindy Gray,North,Support Plus,Qualified,2025-06-16,0,Lost,
+148,Cindy Gray,East,Email Campaigns,Qualified,2025-05-23,0,Lost,
+149,Jonathan Blevins,North,CRM Lite,Qualified,2025-06-01,0,Lost,
+150,Thomas Dickson,North,Email Campaigns,Proposal Sent,2025-06-04,0,Lost,
+151,Michael Simpson,South,CRM Pro,Closed Won,2025-05-13,3574,Won,2025-06-29
+152,Tyler Hawkins,North,Email Campaigns,Closed Lost,2025-07-16,0,Lost,2025-09-07
+153,Jonathan Blevins,North,Email Campaigns,Closed Won,2025-07-15,1491,Won,2025-08-28
+154,Ashley Brandt,North,Support Plus,Negotiation,2025-04-16,0,Lost,
+155,Ashley Brandt,North,Analytics Suite,Closed Lost,2025-07-11,0,Lost,2025-08-21
+156,Michael Simpson,East,Analytics Suite,Contacted,2025-06-22,0,Lost,
+157,Monique Thomas,West,CRM Lite,Closed Lost,2025-04-16,0,Lost,2025-06-11
+158,Jonathan Blevins,West,Analytics Suite,Closed Won,2025-06-15,2712,Won,2025-07-22
+159,Jonathan Blevins,East,Email Campaigns,Closed Lost,2025-05-13,0,Lost,2025-06-07
+160,Jennifer Gonzalez,West,CRM Lite,Contacted,2025-04-16,0,Lost,
+161,Jonathan Blevins,West,Email Campaigns,Negotiation,2025-07-02,0,Lost,
+162,Cindy Gray,East,CRM Lite,Contacted,2025-07-09,0,Lost,
+163,Tyler Hawkins,East,Email Campaigns,Negotiation,2025-05-04,0,Lost,
+164,Jennifer Gonzalez,East,Support Plus,Proposal Sent,2025-06-29,0,Lost,
+165,David Cole,South,CRM Pro,Contacted,2025-05-11,0,Lost,
+166,Michael Simpson,West,Support Plus,Qualified,2025-04-10,0,Lost,
+167,Cindy Gray,West,Analytics Suite,Qualified,2025-05-30,0,Lost,
+168,Thomas Dickson,East,CRM Lite,Contacted,2025-06-02,0,Lost,
+169,Tyler Hawkins,East,Support Plus,Negotiation,2025-07-15,0,Lost,
+170,Cindy Gray,East,Analytics Suite,Proposal Sent,2025-06-18,0,Lost,
+171,David Cole,East,Email Campaigns,Closed Lost,2025-04-13,0,Lost,2025-06-06
+172,Jennifer Gonzalez,East,Email Campaigns,Negotiation,2025-06-22,0,Lost,
+173,Thomas Dickson,South,Email Campaigns,Qualified,2025-05-12,0,Lost,
+174,David Cole,South,CRM Lite,Contacted,2025-04-18,0,Lost,
+175,Cindy Gray,East,Support Plus,Qualified,2025-05-20,0,Lost,
+176,Thomas Dickson,South,Email Campaigns,Closed Won,2025-06-10,2818,Won,2025-07-04
+177,Monique Thomas,East,CRM Pro,Proposal Sent,2025-06-26,0,Lost,
+178,David Cole,South,Email Campaigns,Closed Lost,2025-06-19,0,Lost,2025-07-01
+179,David Cole,East,CRM Lite,Contacted,2025-04-18,0,Lost,
+180,Cindy Gray,North,CRM Pro,Closed Lost,2025-05-26,0,Lost,2025-07-11
+181,Cindy Gray,West,Analytics Suite,Proposal Sent,2025-05-29,0,Lost,
+182,Monique Thomas,North,Email Campaigns,Proposal Sent,2025-06-09,0,Lost,
+183,Thomas Dickson,North,Analytics Suite,Negotiation,2025-06-18,0,Lost,
+184,Thomas Dickson,North,CRM Lite,Negotiation,2025-04-13,0,Lost,
+185,Jonathan Blevins,East,CRM Pro,Qualified,2025-06-13,0,Lost,
+186,Thomas Dickson,West,Support Plus,Qualified,2025-06-15,0,Lost,
+187,David Cole,West,Analytics Suite,Closed Won,2025-07-25,2348,Won,2025-09-01
+188,Jonathan Blevins,West,Email Campaigns,Proposal Sent,2025-06-07,0,Lost,
+189,Jonathan Blevins,North,CRM Lite,Closed Won,2025-04-21,993,Won,2025-06-10
+190,Jennifer Gonzalez,North,CRM Lite,Qualified,2025-05-06,0,Lost,
+191,Monique Thomas,North,CRM Lite,Qualified,2025-05-29,0,Lost,
+192,Michael Simpson,West,Support Plus,Contacted,2025-07-07,0,Lost,
+193,Jennifer Gonzalez,North,CRM Lite,Negotiation,2025-06-15,0,Lost,
+194,Jennifer Gonzalez,West,CRM Pro,Proposal Sent,2025-05-09,0,Lost,
+195,Tyler Hawkins,East,Support Plus,Closed Lost,2025-06-19,0,Lost,2025-08-10
+196,Michael Simpson,North,Support Plus,Qualified,2025-05-07,0,Lost,
+197,Monique Thomas,East,CRM Lite,Qualified,2025-05-19,0,Lost,
+198,John Smith,South,Email Campaigns,Contacted,2025-04-24,0,Lost,
+199,Cindy Gray,North,Analytics Suite,Closed Won,2025-04-25,2864,Won,2025-06-18
+200,Michael Simpson,East,Support Plus,Proposal Sent,2025-05-21,0,Lost,
+201,Cindy Gray,North,Support Plus,Closed Won,2025-06-09,4545,Won,2025-06-21
+202,Ashley Brandt,East,CRM Pro,Negotiation,2025-05-28,0,Lost,
+203,Tyler Hawkins,North,Email Campaigns,Contacted,2025-06-11,0,Lost,
+204,Monique Thomas,West,Support Plus,Closed Won,2025-04-24,829,Won,2025-06-14
+205,Jennifer Gonzalez,South,Support Plus,Negotiation,2025-07-01,0,Lost,
+206,Cindy Gray,North,Analytics Suite,Negotiation,2025-04-10,0,Lost,
+207,Michael Simpson,East,Email Campaigns,Proposal Sent,2025-05-10,0,Lost,
+208,Thomas Dickson,South,Email Campaigns,Closed Lost,2025-06-18,0,Lost,2025-07-24
+209,Cindy Gray,East,Analytics Suite,Closed Lost,2025-05-02,0,Lost,2025-06-29
+210,Cindy Gray,North,Email Campaigns,Closed Won,2025-05-04,800,Won,2025-05-30
+211,Thomas Dickson,West,Support Plus,Proposal Sent,2025-06-29,0,Lost,
+212,David Cole,West,Analytics Suite,Contacted,2025-06-08,0,Lost,
+213,Tyler Hawkins,East,Support Plus,Contacted,2025-04-25,0,Lost,
+214,Cindy Gray,North,CRM Lite,Negotiation,2025-07-16,0,Lost,
+215,David Cole,South,Email Campaigns,Proposal Sent,2025-06-19,0,Lost,
+216,Cindy Gray,North,CRM Pro,Negotiation,2025-04-09,0,Lost,
+217,Jonathan Blevins,South,CRM Lite,Closed Lost,2025-06-19,0,Lost,2025-07-18
+218,David Cole,West,CRM Pro,Closed Won,2025-04-28,612,Won,2025-05-22
+219,Cindy Gray,North,CRM Lite,Contacted,2025-07-04,0,Lost,
+220,Jennifer Gonzalez,East,Analytics Suite,Negotiation,2025-05-19,0,Lost,
+221,Cindy Gray,South,Analytics Suite,Negotiation,2025-05-05,0,Lost,
+222,Michael Simpson,South,Support Plus,Closed Won,2025-07-01,1684,Won,2025-08-12
+223,Monique Thomas,North,Email Campaigns,Closed Lost,2025-06-03,0,Lost,2025-08-01
+224,Ashley Brandt,East,CRM Pro,Negotiation,2025-06-30,0,Lost,
+225,Jennifer Gonzalez,West,CRM Lite,Proposal Sent,2025-05-18,0,Lost,
+226,David Cole,West,Email Campaigns,Negotiation,2025-04-19,0,Lost,
+227,David Cole,West,Analytics Suite,Proposal Sent,2025-06-10,0,Lost,
+228,Tyler Hawkins,South,Support Plus,Proposal Sent,2025-06-11,0,Lost,
+229,Tyler Hawkins,West,CRM Pro,Negotiation,2025-04-29,0,Lost,
+230,Cindy Gray,West,Analytics Suite,Proposal Sent,2025-06-23,0,Lost,
+231,Monique Thomas,West,CRM Pro,Closed Lost,2025-06-14,0,Lost,2025-07-02
+232,Thomas Dickson,West,CRM Pro,Closed Won,2025-07-01,3219,Won,2025-08-13
+233,John Smith,South,Analytics Suite,Negotiation,2025-04-29,0,Lost,
+234,Monique Thomas,North,Analytics Suite,Closed Lost,2025-05-15,0,Lost,2025-07-14
+235,Ashley Brandt,West,CRM Pro,Proposal Sent,2025-05-25,0,Lost,
+236,David Cole,West,Email Campaigns,Proposal Sent,2025-04-17,0,Lost,
+237,Cindy Gray,North,Support Plus,Closed Lost,2025-06-24,0,Lost,2025-07-08
+238,Jennifer Gonzalez,South,CRM Pro,Qualified,2025-07-14,0,Lost,
+239,Thomas Dickson,North,Analytics Suite,Negotiation,2025-05-07,0,Lost,
+240,Jennifer Gonzalez,North,CRM Pro,Qualified,2025-05-02,0,Lost,
+241,John Smith,East,Email Campaigns,Proposal Sent,2025-06-20,0,Lost,
+242,Michael Simpson,South,CRM Lite,Proposal Sent,2025-04-16,0,Lost,
+243,Jonathan Blevins,South,CRM Lite,Closed Won,2025-04-29,3875,Won,2025-05-20
+244,Jonathan Blevins,West,Support Plus,Contacted,2025-05-08,0,Lost,
+245,Tyler Hawkins,West,Support Plus,Closed Lost,2025-06-06,0,Lost,2025-06-25
+246,Cindy Gray,East,Analytics Suite,Qualified,2025-07-20,0,Lost,
+247,John Smith,West,Email Campaigns,Proposal Sent,2025-05-19,0,Lost,
+248,David Cole,South,CRM Pro,Closed Lost,2025-06-29,0,Lost,2025-08-06
+249,Jonathan Blevins,East,Analytics Suite,Proposal Sent,2025-07-06,0,Lost,
+250,Jennifer Gonzalez,West,Email Campaigns,Closed Lost,2025-04-14,0,Lost,2025-05-06
+251,Cindy Gray,North,CRM Lite,Negotiation,2025-07-08,0,Lost,
+252,Jonathan Blevins,East,Support Plus,Negotiation,2025-05-21,0,Lost,
+253,Jennifer Gonzalez,North,Analytics Suite,Proposal Sent,2025-05-23,0,Lost,
+254,John Smith,North,Support Plus,Proposal Sent,2025-05-13,0,Lost,
+255,Cindy Gray,East,CRM Lite,Closed Lost,2025-04-24,0,Lost,2025-06-11
+256,Tyler Hawkins,South,Support Plus,Proposal Sent,2025-06-19,0,Lost,
+257,Monique Thomas,North,CRM Pro,Proposal Sent,2025-06-03,0,Lost,
+258,Cindy Gray,North,Support Plus,Proposal Sent,2025-07-10,0,Lost,
+259,Monique Thomas,North,Email Campaigns,Proposal Sent,2025-05-02,0,Lost,
+260,Michael Simpson,South,CRM Lite,Proposal Sent,2025-07-19,0,Lost,
+261,David Cole,East,Support Plus,Qualified,2025-04-19,0,Lost,
+262,Monique Thomas,East,Analytics Suite,Closed Won,2025-07-16,2732,Won,2025-08-13
+263,Ashley Brandt,North,Analytics Suite,Closed Lost,2025-04-15,0,Lost,2025-04-29
+264,Tyler Hawkins,West,Support Plus,Qualified,2025-06-08,0,Lost,
+265,Thomas Dickson,West,CRM Pro,Proposal Sent,2025-06-15,0,Lost,
+266,David Cole,North,Analytics Suite,Proposal Sent,2025-06-21,0,Lost,
+267,Jennifer Gonzalez,West,Email Campaigns,Proposal Sent,2025-05-07,0,Lost,
+268,Tyler Hawkins,West,CRM Pro,Contacted,2025-04-17,0,Lost,
+269,Jonathan Blevins,South,CRM Pro,Closed Won,2025-07-16,3187,Won,2025-09-04
+270,Jennifer Gonzalez,West,CRM Pro,Negotiation,2025-06-21,0,Lost,
+271,John Smith,North,Email Campaigns,Qualified,2025-05-28,0,Lost,
+272,Thomas Dickson,North,CRM Lite,Negotiation,2025-04-23,0,Lost,
+273,Michael Simpson,West,Email Campaigns,Closed Won,2025-07-12,1611,Won,2025-09-02
+274,David Cole,West,Support Plus,Closed Lost,2025-06-17,0,Lost,2025-08-13
+275,Monique Thomas,West,CRM Pro,Closed Lost,2025-05-23,0,Lost,2025-07-03
+276,Jennifer Gonzalez,North,Email Campaigns,Closed Won,2025-04-09,3843,Won,2025-05-02
+277,Cindy Gray,South,Email Campaigns,Negotiation,2025-04-22,0,Lost,
+278,Ashley Brandt,East,CRM Pro,Contacted,2025-06-14,0,Lost,
+279,Jennifer Gonzalez,South,CRM Pro,Negotiation,2025-05-22,0,Lost,
+280,Thomas Dickson,South,Support Plus,Negotiation,2025-06-03,0,Lost,
+281,John Smith,East,CRM Lite,Contacted,2025-07-23,0,Lost,
+282,Jonathan Blevins,South,CRM Pro,Qualified,2025-04-16,0,Lost,
+283,Jonathan Blevins,South,CRM Lite,Closed Won,2025-05-12,2197,Won,2025-06-12
+284,Jonathan Blevins,North,Email Campaigns,Qualified,2025-07-10,0,Lost,
+285,Monique Thomas,East,CRM Lite,Qualified,2025-06-09,0,Lost,
+286,John Smith,South,CRM Pro,Contacted,2025-07-20,0,Lost,
+287,Tyler Hawkins,East,CRM Pro,Proposal Sent,2025-06-23,0,Lost,
+288,Jennifer Gonzalez,North,CRM Lite,Qualified,2025-06-07,0,Lost,
+289,Michael Simpson,North,CRM Pro,Closed Lost,2025-05-02,0,Lost,2025-06-11
+290,Ashley Brandt,North,Analytics Suite,Negotiation,2025-06-30,0,Lost,
+291,Jonathan Blevins,North,Support Plus,Closed Won,2025-04-23,2314,Won,2025-05-22
+292,John Smith,North,Analytics Suite,Negotiation,2025-04-24,0,Lost,
+293,Michael Simpson,North,Analytics Suite,Negotiation,2025-06-22,0,Lost,
+294,Cindy Gray,North,CRM Pro,Closed Lost,2025-04-26,0,Lost,2025-05-26
+295,Thomas Dickson,South,Email Campaigns,Closed Won,2025-04-28,1715,Won,2025-06-16
+296,Jonathan Blevins,East,Analytics Suite,Closed Lost,2025-04-24,0,Lost,2025-06-11
+297,Cindy Gray,West,CRM Pro,Closed Won,2025-06-30,2915,Won,2025-08-29
+298,Thomas Dickson,South,Analytics Suite,Closed Lost,2025-04-10,0,Lost,2025-05-18
+299,Michael Simpson,East,Analytics Suite,Qualified,2025-06-08,0,Lost,
+300,Michael Simpson,North,Email Campaigns,Negotiation,2025-04-29,0,Lost,
+301,Ashley Brandt,East,Email Campaigns,Negotiation,2025-05-30,0,Lost,
+302,Cindy Gray,North,CRM Pro,Qualified,2025-07-14,0,Lost,
+303,Thomas Dickson,West,CRM Pro,Contacted,2025-05-18,0,Lost,
+304,Ashley Brandt,South,Support Plus,Closed Lost,2025-04-22,0,Lost,2025-05-05
+305,Thomas Dickson,West,Email Campaigns,Closed Won,2025-04-15,3200,Won,2025-06-06
+306,John Smith,East,Support Plus,Negotiation,2025-05-25,0,Lost,
+307,Ashley Brandt,North,Support Plus,Proposal Sent,2025-04-25,0,Lost,
+308,Monique Thomas,West,CRM Lite,Closed Won,2025-04-13,2242,Won,2025-04-29
+309,David Cole,East,CRM Pro,Proposal Sent,2025-04-20,0,Lost,
+310,Jonathan Blevins,South,Analytics Suite,Proposal Sent,2025-05-21,0,Lost,
+311,Jonathan Blevins,East,CRM Pro,Closed Won,2025-07-08,715,Won,2025-07-29
+312,Jennifer Gonzalez,East,Email Campaigns,Proposal Sent,2025-04-24,0,Lost,
+313,Monique Thomas,South,Support Plus,Contacted,2025-04-13,0,Lost,
+314,Michael Simpson,North,CRM Lite,Closed Lost,2025-07-07,0,Lost,2025-09-02
+315,John Smith,North,Support Plus,Closed Lost,2025-07-25,0,Lost,2025-08-17
+316,Michael Simpson,West,Email Campaigns,Negotiation,2025-06-24,0,Lost,
+317,Ashley Brandt,East,Email Campaigns,Qualified,2025-07-13,0,Lost,
+318,John Smith,South,CRM Lite,Closed Won,2025-06-09,1195,Won,2025-08-06
+319,Thomas Dickson,East,Analytics Suite,Closed Won,2025-06-07,907,Won,2025-07-29
+320,Cindy Gray,West,Analytics Suite,Negotiation,2025-07-09,0,Lost,
+321,Tyler Hawkins,North,Email Campaigns,Proposal Sent,2025-05-24,0,Lost,
+322,Thomas Dickson,East,Support Plus,Negotiation,2025-07-19,0,Lost,
+323,David Cole,East,CRM Pro,Negotiation,2025-04-28,0,Lost,
+324,Michael Simpson,North,CRM Pro,Qualified,2025-05-02,0,Lost,
+325,Jennifer Gonzalez,South,CRM Lite,Qualified,2025-05-29,0,Lost,
+326,Jennifer Gonzalez,East,CRM Pro,Proposal Sent,2025-04-09,0,Lost,
+327,Cindy Gray,West,CRM Lite,Contacted,2025-07-08,0,Lost,
+328,Michael Simpson,South,Support Plus,Qualified,2025-06-26,0,Lost,
+329,Thomas Dickson,West,CRM Pro,Closed Won,2025-05-11,3401,Won,2025-06-17
+330,Cindy Gray,North,Email Campaigns,Contacted,2025-04-16,0,Lost,
+331,Jonathan Blevins,West,Analytics Suite,Closed Won,2025-06-20,4016,Won,2025-07-18
+332,Michael Simpson,North,Email Campaigns,Contacted,2025-05-19,0,Lost,
+333,Jonathan Blevins,West,Email Campaigns,Qualified,2025-04-25,0,Lost,
+334,Michael Simpson,North,CRM Lite,Contacted,2025-06-06,0,Lost,
+335,Jonathan Blevins,West,Support Plus,Negotiation,2025-04-08,0,Lost,
+336,Michael Simpson,East,Email Campaigns,Contacted,2025-04-19,0,Lost,
+337,Ashley Brandt,South,CRM Pro,Qualified,2025-06-05,0,Lost,
+338,David Cole,South,Email Campaigns,Closed Won,2025-06-24,1434,Won,2025-07-26
+339,Monique Thomas,South,CRM Pro,Closed Lost,2025-06-12,0,Lost,2025-07-01
+340,Tyler Hawkins,South,Support Plus,Proposal Sent,2025-07-24,0,Lost,
+341,Thomas Dickson,South,Analytics Suite,Qualified,2025-07-02,0,Lost,
+342,Jonathan Blevins,West,Support Plus,Negotiation,2025-06-25,0,Lost,
+343,Jonathan Blevins,East,Email Campaigns,Closed Lost,2025-06-04,0,Lost,2025-06-23
+344,Thomas Dickson,West,Analytics Suite,Negotiation,2025-06-01,0,Lost,
+345,Jennifer Gonzalez,East,Support Plus,Closed Lost,2025-07-20,0,Lost,2025-08-02
+346,David Cole,North,Email Campaigns,Proposal Sent,2025-04-11,0,Lost,
+347,Cindy Gray,North,CRM Pro,Negotiation,2025-04-09,0,Lost,
+348,Jennifer Gonzalez,North,CRM Pro,Proposal Sent,2025-04-15,0,Lost,
+349,Michael Simpson,West,Support Plus,Closed Won,2025-04-14,4653,Won,2025-05-29
+350,John Smith,West,Support Plus,Closed Lost,2025-07-10,0,Lost,2025-08-30
+351,Ashley Brandt,West,Support Plus,Qualified,2025-07-25,0,Lost,
+352,John Smith,West,CRM Pro,Qualified,2025-04-20,0,Lost,
+353,Thomas Dickson,South,CRM Pro,Proposal Sent,2025-07-24,0,Lost,
+354,Cindy Gray,West,Support Plus,Qualified,2025-04-08,0,Lost,
+355,Ashley Brandt,East,Email Campaigns,Closed Won,2025-05-23,1800,Won,2025-06-26
+356,Ashley Brandt,North,Email Campaigns,Negotiation,2025-05-11,0,Lost,
+357,Ashley Brandt,North,Support Plus,Contacted,2025-07-03,0,Lost,
+358,Michael Simpson,East,Email Campaigns,Closed Lost,2025-05-24,0,Lost,2025-07-19
+359,Jonathan Blevins,South,Email Campaigns,Closed Lost,2025-06-29,0,Lost,2025-07-14
+360,Ashley Brandt,East,Analytics Suite,Closed Won,2025-06-27,1658,Won,2025-07-15
+361,Jennifer Gonzalez,West,Email Campaigns,Closed Won,2025-07-01,1194,Won,2025-07-19
+362,David Cole,North,Analytics Suite,Closed Lost,2025-05-17,0,Lost,2025-06-28
+363,John Smith,East,Email Campaigns,Proposal Sent,2025-05-21,0,Lost,
+364,Tyler Hawkins,East,Analytics Suite,Qualified,2025-04-30,0,Lost,
+365,Tyler Hawkins,South,CRM Lite,Qualified,2025-04-12,0,Lost,
+366,Jennifer Gonzalez,North,Support Plus,Contacted,2025-07-13,0,Lost,
+367,John Smith,East,Support Plus,Closed Won,2025-06-07,4813,Won,2025-06-25
+368,Monique Thomas,South,CRM Lite,Closed Won,2025-05-05,3586,Won,2025-06-28
+369,Cindy Gray,North,Analytics Suite,Closed Won,2025-06-27,1856,Won,2025-07-30
+370,Tyler Hawkins,West,Support Plus,Closed Lost,2025-06-02,0,Lost,2025-06-30
+371,Cindy Gray,South,Support Plus,Closed Lost,2025-07-06,0,Lost,2025-07-31
+372,Cindy Gray,South,Email Campaigns,Proposal Sent,2025-05-28,0,Lost,
+373,Jonathan Blevins,West,Analytics Suite,Closed Lost,2025-05-08,0,Lost,2025-07-06
+374,Michael Simpson,West,CRM Lite,Proposal Sent,2025-05-24,0,Lost,
+375,Jonathan Blevins,South,Email Campaigns,Qualified,2025-07-01,0,Lost,
+376,Cindy Gray,East,Support Plus,Contacted,2025-07-16,0,Lost,
+377,David Cole,North,Email Campaigns,Contacted,2025-05-12,0,Lost,
+378,Monique Thomas,East,Analytics Suite,Contacted,2025-04-29,0,Lost,
+379,Michael Simpson,North,CRM Lite,Closed Won,2025-04-15,1707,Won,2025-05-23
+380,John Smith,West,CRM Pro,Proposal Sent,2025-05-13,0,Lost,
+381,David Cole,East,CRM Lite,Negotiation,2025-04-10,0,Lost,
+382,Thomas Dickson,East,CRM Lite,Negotiation,2025-04-18,0,Lost,
+383,Ashley Brandt,North,Email Campaigns,Contacted,2025-05-21,0,Lost,
+384,Monique Thomas,North,Email Campaigns,Qualified,2025-05-10,0,Lost,
+385,Monique Thomas,West,Analytics Suite,Negotiation,2025-07-09,0,Lost,
+386,Thomas Dickson,North,Email Campaigns,Closed Won,2025-05-22,543,Won,2025-06-14
+387,David Cole,West,CRM Pro,Qualified,2025-05-04,0,Lost,
+388,Tyler Hawkins,East,CRM Pro,Proposal Sent,2025-06-08,0,Lost,
+389,Tyler Hawkins,West,Support Plus,Contacted,2025-06-03,0,Lost,
+390,Thomas Dickson,North,Analytics Suite,Negotiation,2025-07-06,0,Lost,
+391,John Smith,South,CRM Lite,Closed Won,2025-06-04,4891,Won,2025-07-02
+392,John Smith,East,CRM Lite,Negotiation,2025-05-08,0,Lost,
+393,Monique Thomas,North,Support Plus,Closed Won,2025-05-21,3912,Won,2025-06-23
+394,David Cole,North,Analytics Suite,Contacted,2025-06-22,0,Lost,
+395,John Smith,West,Email Campaigns,Negotiation,2025-06-06,0,Lost,
+396,John Smith,East,CRM Pro,Proposal Sent,2025-07-03,0,Lost,
+397,Tyler Hawkins,North,Support Plus,Proposal Sent,2025-07-24,0,Lost,
+398,Ashley Brandt,South,CRM Pro,Closed Lost,2025-04-22,0,Lost,2025-05-24
+399,Monique Thomas,West,Analytics Suite,Closed Won,2025-06-11,3273,Won,2025-07-31
+400,Monique Thomas,North,Analytics Suite,Qualified,2025-07-12,0,Lost,
+401,Jennifer Gonzalez,South,CRM Pro,Contacted,2025-06-18,0,Lost,
+402,John Smith,East,Email Campaigns,Qualified,2025-05-31,0,Lost,
+403,David Cole,West,Email Campaigns,Closed Won,2025-05-03,3762,Won,2025-05-15
+404,Tyler Hawkins,East,Email Campaigns,Closed Lost,2025-04-08,0,Lost,2025-06-06
+405,Ashley Brandt,East,CRM Pro,Contacted,2025-04-29,0,Lost,
+406,Michael Simpson,West,Analytics Suite,Proposal Sent,2025-07-02,0,Lost,
+407,Ashley Brandt,South,Analytics Suite,Negotiation,2025-06-10,0,Lost,
+408,Cindy Gray,East,Support Plus,Closed Lost,2025-07-15,0,Lost,2025-08-11
+409,Michael Simpson,North,Analytics Suite,Contacted,2025-06-04,0,Lost,
+410,David Cole,East,Email Campaigns,Closed Won,2025-07-10,1978,Won,2025-07-26
+411,Ashley Brandt,East,Email Campaigns,Contacted,2025-06-23,0,Lost,
+412,Jonathan Blevins,West,CRM Lite,Negotiation,2025-05-05,0,Lost,
+413,Cindy Gray,East,Analytics Suite,Closed Lost,2025-07-03,0,Lost,2025-07-15
+414,Ashley Brandt,West,Email Campaigns,Closed Lost,2025-04-25,0,Lost,2025-06-14
+415,Thomas Dickson,West,Email Campaigns,Contacted,2025-05-09,0,Lost,
+416,John Smith,South,Support Plus,Closed Won,2025-04-25,1810,Won,2025-06-17
+417,John Smith,South,CRM Pro,Negotiation,2025-04-22,0,Lost,
+418,Ashley Brandt,East,Analytics Suite,Qualified,2025-05-07,0,Lost,
+419,Jonathan Blevins,South,Analytics Suite,Closed Won,2025-05-12,765,Won,2025-06-14
+420,Cindy Gray,North,Support Plus,Proposal Sent,2025-04-25,0,Lost,
+421,David Cole,East,Analytics Suite,Qualified,2025-05-22,0,Lost,
+422,Jennifer Gonzalez,South,CRM Pro,Proposal Sent,2025-07-25,0,Lost,
+423,Monique Thomas,West,Support Plus,Contacted,2025-04-30,0,Lost,
+424,David Cole,North,Email Campaigns,Negotiation,2025-04-22,0,Lost,
+425,Cindy Gray,South,Support Plus,Proposal Sent,2025-05-12,0,Lost,
+426,Cindy Gray,South,CRM Pro,Proposal Sent,2025-05-15,0,Lost,
+427,Thomas Dickson,West,CRM Lite,Qualified,2025-04-30,0,Lost,
+428,Cindy Gray,North,Email Campaigns,Closed Lost,2025-06-01,0,Lost,2025-07-23
+429,Thomas Dickson,East,Email Campaigns,Proposal Sent,2025-06-30,0,Lost,
+430,Monique Thomas,East,Support Plus,Qualified,2025-05-12,0,Lost,
+431,Thomas Dickson,South,CRM Lite,Qualified,2025-05-22,0,Lost,
+432,Cindy Gray,North,Email Campaigns,Qualified,2025-06-25,0,Lost,
+433,Cindy Gray,South,Support Plus,Closed Won,2025-07-02,3522,Won,2025-07-17
+434,Jennifer Gonzalez,West,Analytics Suite,Contacted,2025-07-22,0,Lost,
+435,Michael Simpson,North,CRM Lite,Closed Won,2025-06-17,3865,Won,2025-07-17
+436,Thomas Dickson,West,Analytics Suite,Closed Lost,2025-06-07,0,Lost,2025-07-30
+437,Monique Thomas,South,CRM Lite,Closed Won,2025-05-12,3322,Won,2025-06-18
+438,Thomas Dickson,South,Email Campaigns,Closed Won,2025-06-06,953,Won,2025-06-26
+439,Ashley Brandt,South,Email Campaigns,Qualified,2025-06-28,0,Lost,
+440,Thomas Dickson,East,CRM Lite,Closed Won,2025-04-21,2826,Won,2025-06-10
+441,Monique Thomas,East,Support Plus,Closed Won,2025-05-25,2748,Won,2025-07-08
+442,David Cole,South,Support Plus,Contacted,2025-06-16,0,Lost,
+443,Monique Thomas,East,Support Plus,Closed Won,2025-05-21,1763,Won,2025-06-02
+444,Thomas Dickson,North,Support Plus,Contacted,2025-06-27,0,Lost,
+445,Tyler Hawkins,West,Support Plus,Proposal Sent,2025-07-16,0,Lost,
+446,John Smith,West,Support Plus,Closed Lost,2025-06-26,0,Lost,2025-07-24
+447,Jennifer Gonzalez,West,CRM Lite,Closed Lost,2025-04-19,0,Lost,2025-06-11
+448,Jennifer Gonzalez,West,CRM Pro,Negotiation,2025-07-10,0,Lost,
+449,John Smith,South,Analytics Suite,Closed Lost,2025-05-22,0,Lost,2025-06-27
+450,Cindy Gray,South,Email Campaigns,Negotiation,2025-05-03,0,Lost,
+451,Ashley Brandt,East,Email Campaigns,Closed Won,2025-06-20,1676,Won,2025-07-25
+452,Ashley Brandt,North,Email Campaigns,Qualified,2025-06-27,0,Lost,
+453,Cindy Gray,North,Email Campaigns,Qualified,2025-07-20,0,Lost,
+454,Tyler Hawkins,South,CRM Pro,Negotiation,2025-07-20,0,Lost,
+455,Jennifer Gonzalez,West,Support Plus,Contacted,2025-06-22,0,Lost,
+456,Tyler Hawkins,South,Email Campaigns,Negotiation,2025-05-02,0,Lost,
+457,Tyler Hawkins,South,Analytics Suite,Closed Won,2025-04-19,3061,Won,2025-05-31
+458,Cindy Gray,East,Analytics Suite,Negotiation,2025-05-01,0,Lost,
+459,Thomas Dickson,West,Support Plus,Contacted,2025-07-05,0,Lost,
+460,Tyler Hawkins,South,Support Plus,Negotiation,2025-04-09,0,Lost,
+461,John Smith,North,Email Campaigns,Proposal Sent,2025-05-24,0,Lost,
+462,Jonathan Blevins,West,Email Campaigns,Negotiation,2025-04-20,0,Lost,
+463,Thomas Dickson,West,CRM Lite,Closed Won,2025-05-23,566,Won,2025-06-18
+464,Ashley Brandt,West,Email Campaigns,Closed Lost,2025-05-24,0,Lost,2025-06-05
+465,John Smith,South,Email Campaigns,Negotiation,2025-04-14,0,Lost,
+466,Thomas Dickson,West,Support Plus,Closed Won,2025-05-22,2864,Won,2025-06-29
+467,Jonathan Blevins,North,CRM Lite,Closed Won,2025-04-18,2791,Won,2025-05-04
+468,Ashley Brandt,East,Support Plus,Negotiation,2025-06-25,0,Lost,
+469,Monique Thomas,South,Support Plus,Proposal Sent,2025-07-16,0,Lost,
+470,David Cole,North,CRM Pro,Closed Won,2025-07-01,3788,Won,2025-07-13
+471,Ashley Brandt,West,Support Plus,Qualified,2025-04-24,0,Lost,
+472,Monique Thomas,South,Email Campaigns,Negotiation,2025-05-27,0,Lost,
+473,Monique Thomas,West,Support Plus,Closed Won,2025-04-09,3109,Won,2025-06-05
+474,Jonathan Blevins,East,Support Plus,Proposal Sent,2025-06-20,0,Lost,
+475,Cindy Gray,East,Analytics Suite,Closed Won,2025-07-02,4860,Won,2025-07-13
+476,Ashley Brandt,North,Analytics Suite,Proposal Sent,2025-05-18,0,Lost,
+477,John Smith,West,Email Campaigns,Closed Won,2025-05-20,3020,Won,2025-07-10
+478,John Smith,West,CRM Lite,Closed Won,2025-06-01,2364,Won,2025-07-14
+479,Jonathan Blevins,West,CRM Lite,Closed Lost,2025-07-11,0,Lost,2025-09-02
+480,John Smith,North,CRM Lite,Qualified,2025-04-07,0,Lost,
+481,Cindy Gray,East,Analytics Suite,Contacted,2025-04-25,0,Lost,
+482,Michael Simpson,South,Analytics Suite,Qualified,2025-05-07,0,Lost,
+483,John Smith,South,Support Plus,Closed Won,2025-06-15,4363,Won,2025-07-08
+484,Cindy Gray,West,Email Campaigns,Closed Won,2025-05-16,3162,Won,2025-06-06
+485,David Cole,East,Support Plus,Negotiation,2025-05-31,0,Lost,
+486,Jennifer Gonzalez,West,CRM Lite,Proposal Sent,2025-07-03,0,Lost,
+487,Jennifer Gonzalez,East,CRM Lite,Qualified,2025-06-11,0,Lost,
+488,Jennifer Gonzalez,South,Analytics Suite,Proposal Sent,2025-07-06,0,Lost,
+489,Cindy Gray,East,Support Plus,Proposal Sent,2025-04-09,0,Lost,
+490,Jennifer Gonzalez,East,CRM Pro,Closed Lost,2025-06-22,0,Lost,2025-08-07
+491,David Cole,West,Analytics Suite,Closed Lost,2025-05-31,0,Lost,2025-07-02
+492,Jennifer Gonzalez,North,Email Campaigns,Qualified,2025-07-25,0,Lost,
+493,Thomas Dickson,East,Analytics Suite,Closed Lost,2025-04-07,0,Lost,2025-05-28
+494,Cindy Gray,South,CRM Lite,Proposal Sent,2025-05-18,0,Lost,
+495,David Cole,East,CRM Lite,Closed Won,2025-05-30,2721,Won,2025-06-15
+496,Tyler Hawkins,North,Support Plus,Closed Won,2025-06-10,2460,Won,2025-07-04
+497,Tyler Hawkins,North,CRM Pro,Closed Lost,2025-06-06,0,Lost,2025-07-12
+498,Cindy Gray,North,CRM Lite,Proposal Sent,2025-05-06,0,Lost,
+499,David Cole,South,Analytics Suite,Contacted,2025-07-05,0,Lost,
+500,Cindy Gray,West,CRM Lite,Closed Lost,2025-07-16,0,Lost,2025-09-12
