@@ -16,8 +16,23 @@ st.title("Sales Pipeline Analysis Dashboard")
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('sales_pipeline_data.csv')
-    return df
+    try:
+        df = pd.read_csv('sales_pipeline_data.csv')
+        return df
+    except FileNotFoundError:
+        st.error("Error: sales_pipeline_data.csv file not found. Please ensure the file is in the same directory as the app.")
+        # Create sample data for demonstration
+        return pd.DataFrame({
+            'Lead_ID': range(1, 6),
+            'Sales_Rep': ['John Doe'] * 5,
+            'Region': ['North'] * 5,
+            'Product': ['Product A'] * 5,
+            'Stage': ['Qualified'] * 5,
+            'Stage_Entry_Date': ['2025-01-01'] * 5,
+            'Deal_Amount': [1000] * 5,
+            'Outcome': ['Won'] * 5,
+            'Close_Date': ['2025-02-01'] * 5
+        })
 
 df = load_data()
 
